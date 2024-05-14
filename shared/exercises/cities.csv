@@ -1,0 +1,32 @@
+Město,Datum,Max teplota (°C),Min teplota (°C),Srážky (mm)
+"Praha, Vídeňská 100",2023-05-01,20,10,5
+"Brno, Hostinského 2282",2023-05-01,22,9,0
+"Ostrava, Přívozská 3303",2023-05-01,21,8,3
+"Plzeň, Americká 47",2023-05-01,18,7,8
+"Liberec, Šaldova 15",2023-05-01,19,6,0
+"Olomouc, tř. Kosmonautů 1288/1",2023-05-02,17,9,7
+"České Budějovice, Lidická 1789",2023-05-02,16,8,2
+"Ústí nad Labem, Masarykova 1010",2023-05-02,22,11,4
+"Hradec Králové, Brněnská 1824",2023-05-02,20,10,6
+"Pardubice, Smilova 300",2023-05-02,21,9,0
+"Zlín, třída Tomáše Bati 1521",2023-05-03,18,8,5
+"Kladno, Vašíčkova 1002",2023-05-03,19,9,1
+"Most, tř. Budovatelů 1050",2023-05-03,20,10,2
+"Opava, Krnovská 2023",2023-05-03,22,8,3
+"Frýdek-Místek, Na Příkopě 3333",2023-05-03,17,6,0
+"Karviná, Mírové náměstí 88",2023-05-04,18,7,4
+"Jihlava, Havlíčkova 1022",2023-05-04,19,11,8
+"Teplice, U Císařských lázní 14",2023-05-04,20,9,0
+"Děčín, Labská 204",2023-05-04,18,10,7
+"Karlovy Vary, Zámecký vrch 280",2023-05-04,15,5,2
+"Chomutov, Palackého 444",2023-05-05,16,6,1
+"Jablonec nad Nisou, U Nádraží 5",2023-05-05,14,4,5
+"Mladá Boleslav, Jičínská 1051",2023-05-05,22,12,0
+"Prostějov, Kollárova 50",2023-05-05,21,10,6
+"Přerov, Wilsonova 100",2023-05-05,23,11,0
+"Česká Lípa, Sokolská 800",2023-05-06,18,8,3
+"Pelhřimov, Pražská 99",2023-05-06,17,7,0
+"Rakovník, Husova 888",2023-05-06,19,9,7
+"Říčany, Masarykovo nám. 1000",2023-05-06,20,10,4
+"Beroun, Plzeňská 400",2023-05-06,21,11,0
+, ,,,
